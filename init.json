@@ -1,0 +1,71 @@
+[
+  {
+    "InverterId": "404000184155-A",
+    "HistoricalData" : [
+      {
+        "CurrentPower": 6,
+        "Voltage": 231,
+        "Temperature": 16,
+        "Date": "2020-12-15 09:53:06"
+      },
+      {
+        "CurrentPower": 12,
+        "Voltage": 231,
+        "Temperature": 16,
+        "Date": "2020-12-15 10:53:06"
+      }
+    ]
+  },
+  {
+    "InverterId": "404000184155-B",
+    "HistoricalData" : [
+      {
+        "CurrentPower": 6,
+        "Voltage": 231,
+        "Temperature": 16,
+        "Date": "2020-12-15 09:53:06"
+      },
+      {
+        "CurrentPower": 12,
+        "Voltage": 231,
+        "Temperature": 16,
+        "Date": "2020-12-15 10:53:06"
+      }
+    ]
+  },
+  {
+    "InverterId": "404000184281-A",
+    "HistoricalData" : [
+      {
+        "CurrentPower": 7,
+        "Voltage": 231,
+        "Temperature": 16,
+        "Date": "2020-12-15 09:53:06"
+      },
+      {
+        "CurrentPower": 14,
+        "Voltage": 231,
+        "Temperature": 16,
+        "Date": "2020-12-15 10:53:06"
+      }
+    ]
+  },
+  {
+    "InverterId": "404000184281-B",
+    "HistoricalData" : [
+      {
+        "CurrentPower": 8,
+        "Voltage": 231,
+        "Temperature": 16,
+        "Date": "2020-12-15 09:53:06"
+      },
+      {
+        "CurrentPower": 18,
+        "Voltage": 231,
+        "Temperature": 16,
+        "Date": "2020-12-15 10:53:06"
+      }
+    ]
+  }
+]
+
